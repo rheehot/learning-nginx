@@ -1,7 +1,7 @@
 # Nginx 주요 설정 정리
 `CentOS 7`를 기준으로 한 Nginx 주요 설정 정리
 
-### nginx 관련 설정 파일 목록
+### Nginx 관련 설정 파일 목록
 * nginx.conf: 기본 환경 설정
 * mime.types: 파일 확장명과 MIME 타입 목록
 * fastcgi.conf: FastCGI 관련 설정
